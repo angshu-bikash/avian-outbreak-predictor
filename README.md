@@ -1,12 +1,10 @@
 # Avian Outbreak Predictor
 
-Predictive modelling pipeline for early‐warning of avian disease outbreaks.
+Predictive modelling pipeline for early warning of avian disease outbreaks. Classification and Regression
 
 ## Structure
 
 - **data/** – raw & processed data
 - **notebooks/** – Jupyter notebooks (preprocessing, EDA, modelling)  
-- **src/** – Python modules  
-- **outputs/** – Charts & saved models  
-- **presentations/** – Slide decks  
+- **presentations/** – Charts and Slide decks  
 
